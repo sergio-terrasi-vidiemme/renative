@@ -1,0 +1,27 @@
+{
+    "platforms": {},
+    "plugins": {},
+    "extendsTemplate": "renative.json",
+    "projectName": "End",
+    "workspaceID": "rnv",
+    "defaults": {
+        "title": "Endu",
+        "id": "it.vidiemme.end",
+        "supportedPlatforms": [
+            "ios",
+            "android",
+            "androidtv",
+            "tizen",
+            "tvos"
+        ]
+    },
+    "engines": {},
+    "templates": {
+        "renative-template-hello-world": {
+            "version": "0.35.3"
+        }
+    },
+    "currentTemplate": "renative-template-hello-world",
+    "isNew": true,
+    "isMonorepo": false
+}
